@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.d("Git Test", "Branch 2");
+        Log.e("vhanges to test3","Branch 3");
 
     }
 
